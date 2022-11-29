@@ -1,2 +1,0 @@
-# YizhengBlog
-Personal Blog
