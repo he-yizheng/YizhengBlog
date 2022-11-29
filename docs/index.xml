@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>YizhengBlog</title>
+        <link>https://he-yizheng.github.io/YizhengBlog/</link>
+        <description>Recent content on YizhengBlog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Tue, 29 Nov 2022 21:47:05 +0800</lastBuildDate><atom:link href="https://he-yizheng.github.io/YizhengBlog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My First Post</title>
+        <link>https://he-yizheng.github.io/YizhengBlog/posts/my-first-post/</link>
+        <pubDate>Tue, 29 Nov 2022 21:47:05 +0800</pubDate>
+        
+        <guid>https://he-yizheng.github.io/YizhengBlog/posts/my-first-post/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
